@@ -11,5 +11,6 @@ export
     {
         std::cout << "Hello world!";
         enter();
+        std::cout << agua << std::endl;
     }
 }
